@@ -2,21 +2,10 @@
 
 <img src='imgs/0001.jpg'/>
 
-### [Project Page](http://raywzy.com/Old_Photo/) | [Paper (CVPR version)](https://arxiv.org/abs/2004.09484) | [Paper (Journal version)](https://arxiv.org/pdf/2009.07047v1.pdf) | [Pretrained Model](https://hkustconnect-my.sharepoint.com/:f:/g/personal/bzhangai_connect_ust_hk/Em0KnYOeSSxFtp4g_dhWdf0BdeT3tY12jIYJ6qvSf300cA?e=nXkJH2) | [Colab Demo](https://colab.research.google.com/drive/1NEm6AsybIiC5TwTU_4DqDkQO0nFRB-uA?usp=sharing) :fire:
-
-**Bringing Old Photos Back to Life, CVPR2020 (Oral)**
-
-**Old Photo Restoration via Deep Latent Space Translation, PAMI Under Review**
-
-
 ## :sparkles: News
 The framework now supports the restoration of high-resolution input.
 
 <img src='imgs/HR_result.png'>
-
-Training code is available and welcome to have a try and learn the training details. 
-
-You can now play with our [Colab](https://colab.research.google.com/drive/1NEm6AsybIiC5TwTU_4DqDkQO0nFRB-uA?usp=sharing) and try it on your photos. 
 
 ## Requirement
 The code is tested on Ubuntu with Nvidia GPUs and CUDA installed. Python>=3.6 is required to run the code.
